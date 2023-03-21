@@ -1,4 +1,4 @@
-# Arima Weather Forecast For Two Wine Regions
+# Use of ARIMA Model For Weather Forecast For Two Wine Regions
 ## Final BSc Project
 
 This project aims to predict the weather in the long term with the help of Machine Learning (ML), Artificial Intelligence (AI) and therefore help wine producers to prepare themselves for upcoming decisions at the strategic level at the top of the pyramid.
